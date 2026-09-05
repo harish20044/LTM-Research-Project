@@ -1,4 +1,0 @@
-groq
-python-dotenv
-pandas
-z3-solver
